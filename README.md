@@ -24,15 +24,15 @@ This project is a **Spring Boot REST API** that demonstrates **CRUD operations**
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/MariaSultanBahoo/Springboot-Project-using-Postman-API
-   cd project folder
+   cd rest-demo
    
-2.Configure MySQL Database
+2.Configure MySQL Database:
 Update application.properties with your MySQL credentials.
 
-3.Build & Run the Application
+3.Build & Run the Application:
 mvn spring-boot:run
 
-4.Test API Endpoints
+4.Test API Endpoints:
 Use Postman or any API client to test the CRUD operations.
 🧪 Running Tests
 Execute unit tests with:
